@@ -7,10 +7,7 @@
 ### [Python語言介紹](https://www.w3schools.com/python/python_intro.asp)
 
 ### [OpenCV-Python的使用介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/02/OpenCV-Python.html)
-```
-git clone https://github.com/rkuo2000/cv2
-cd cv2
-```
+`git clone https://github.com/rkuo2000/cv2` <br>
 
 ---
 ## 2. 卷積層神經網路 (Convolutional Neural Networks)
