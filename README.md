@@ -64,7 +64,24 @@
 
 ---
 ## 7. 循環神經網路 (Recurrent Neural Networks)
-* Stock-LSTM
+
+### 股票預測
+* [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm)
+* [Stock LSTM MACD](https://www.kaggle.com/code/rkuo2000/stock-lstm-macd） 
+
+---
+### 天氣預測
+* [Weather LSTM](https://www.kaggle.com/code/rkuo2000/weather-lstm)
+* [Temperature Nowcasting](https://www.kaggle.com/code/rkuo2000/temperature-nowcasting)
+* [NeuralGCM](https://www.kaggle.com/code/rkuo2000/neuralgcm)
+
+---
+### 人格預測
+* [MBTI RNN](https://www.kaggle.com/code/rkuo2000/mbti-rnn)
+* [MBTI LSTM](https://www.kaggle.com/code/rkuo2000/mbti-lstm)
+
+---
+###
 * LSTM
 * Transformers
 * GPT
