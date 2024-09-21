@@ -26,7 +26,9 @@
 * [垃圾分類](https://www.kaggle.com/code/rkuo2000/garbage-cnn)
 * [肺炎偵測](https://www.kaggle.com/code/rkuo2000/pneumonia-cnn)
 * [皮膚癌偵測](https://www.kaggle.com/code/rkuo2000/skin-lesion-classification)
-
+* [鐵道偵測 Resnet50v2](https://www.kaggle.com/code/rkuo2000/railtrack-resnet50v2)
+* [鐵道偵測 EfficientNet](https://www.kaggle.com/code/rkuo2000/railtrack-efficientnet)
+  
 ---
 ## 4. 物件偵測 (Object Detection)
 * [YOLOv5](https://www.kaggle.com/code/rkuo2000/yolov5)
