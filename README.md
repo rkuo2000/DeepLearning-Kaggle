@@ -67,7 +67,7 @@
 
 ### 股票預測
 * [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm)
-* [Stock LSTM MACD](https://www.kaggle.com/code/rkuo2000/stock-lstm-macd） 
+* [Stock LSTM MACD](https://www.kaggle.com/code/rkuo2000/stock-lstm-macd)
 
 ---
 ### 天氣預測
