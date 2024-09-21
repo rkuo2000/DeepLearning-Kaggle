@@ -81,8 +81,8 @@
 * [MBTI LSTM](https://www.kaggle.com/code/rkuo2000/mbti-lstm)
 
 ---
-###
-* LSTM
+### Transformers
+
 * Transformers
 * GPT
 
