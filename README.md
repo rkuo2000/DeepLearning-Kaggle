@@ -28,10 +28,12 @@
 * [皮膚癌偵測](https://www.kaggle.com/code/rkuo2000/skin-lesion-classification)
 * [鐵道偵測 Resnet50v2](https://www.kaggle.com/code/rkuo2000/railtrack-resnet50v2)
 * [鐵道偵測 EfficientNet](https://www.kaggle.com/code/rkuo2000/railtrack-efficientnet)
+* [鋼鐵瑕疵偵測](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
   
 ---
 ## 4. 物件偵測 (Object Detection)
 * [YOLOv5](https://www.kaggle.com/code/rkuo2000/yolov5)
+* [車牌偵測](https://www.kaggle.com/code/rkuo2000/yolov5-alpr)
 * [血球偵測](https://www.kaggle.com/code/rkuo2000/yolov5-bccd)
 * [口罩偵測](https://www.kaggle.com/code/rkuo2000/yolov5-facemask)
 * [工地安全帽偵測](https://www.kaggle.com/code/rkuo2000/yolov5-helmet)
