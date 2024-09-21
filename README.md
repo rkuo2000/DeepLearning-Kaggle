@@ -29,25 +29,34 @@
 
 ---
 ## 4. 物件偵測 (Object Detection)
-* YOLOv10
-* 血球偵測
-* 口罩偵測
-* 工地安全帽偵測
-* 坑洞偵測
+* [YOLOv5](https://www.kaggle.com/code/rkuo2000/yolov5)
+* [血球偵測](https://www.kaggle.com/code/rkuo2000/yolov5-bccd)
+* [口罩偵測](https://www.kaggle.com/code/rkuo2000/yolov5-facemask)
+* [工地安全帽偵測](https://www.kaggle.com/code/rkuo2000/yolov5-helmet)
+* [坑洞偵測](https://www.kaggle.com/code/rkuo2000/yolov5-pothole-detection)
+* [垃圾偵測](https://www.kaggle.com/code/rkuo2000/yolov5-taco)
+* [YOLOv7](https://www.kaggle.com/code/rkuo2000/yolov7),[YOLOv7 Sushi Detection](https://www.kaggle.com/code/rkuo2000/yolov7-sushi-detection), [YOLOv7 RefrigeratoryFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigeratoryfood), [YOLOv7 Pothole](https://www.kaggle.com/code/rkuo2000/yolov7-pothole)
+* [YOLOv10](https://www.kaggle.com/code/rkuo2000/yolov10)
 
 ---
 ## 5. 影像分割 (Image Segmentation)
-* Image Matting
-* PSPNet
-* DeepLab v3
-* SAM2
-
+* [Image Matting](https://www.kaggle.com/code/rkuo2000/modnet-image-matting)
+* [Semantic Segmentation](https://www.kaggle.com/code/rkuo2000/semantic-segmentation)
+* [DeepLabv3 plus](https://www.kaggle.com/code/rkuo2000/deeplabv3-plus)
+* [Segment Anything](https://www.kaggle.com/code/rkuo2000/segment-anything)
+* [FastSAM](https://www.kaggle.com/code/rkuo2000/fastsam)
+* [SAM2](https://www.kaggle.com/code/rkuo2000/segment-anything-2)
+* [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)
+* [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)
+* [Inpaint Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)
+* [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
+  
 ---
 ## 6. 姿態估計 (Pose Estimation)
-* PoseNet
-* OpenPose
-* MM-Pose
-* YOLOv8-Pose
+* [PosNet](https://www.kaggle.com/code/rkuo2000/posenet-pytorch), [PoseNet Human-Pose](https://www.kaggle.com/code/rkuo2000/posenet-human-pose)
+* [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose-pytorch)
+* [MM-Pose](https://www.kaggle.com/code/rkuo2000/mmpose)
+* [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
 
 ---
 ## 7. 循環神經網路 (Recurrent Neural Networks)
