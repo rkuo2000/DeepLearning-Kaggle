@@ -1,4 +1,4 @@
-# DL-Kaggle
+# Deep Learning
 
 ## 1. Kaggle Introduction
 
@@ -11,15 +11,22 @@
 
 ---
 ## 2. 卷積層神經網路 (Convolutional Neural Networks)
-mnist-cnn,
-
+* [MNIST-CNN](https://www.kaggle.com/code/rkuo2000/mnist-cnn)
+* [Fashion MNIST](https://www.kaggle.com/code/rkuo2000/fashionmnist-cnn)
+* [cifar10 CNN](https://www.kaggle.com/code/rkuo2000/cifar10-cnn)
+* [Cifar10 Pytorch](https://www.kaggle.com/code/rkuo2000/cifar10-pytorch)
+* [FERplus CNN](https://www.kaggle.com/code/rkuo2000/ferplus-cnn)
+* [Flower CNN](https://www.kaggle.com/code/rkuo2000/flower-cnn)
+* [ASL Alphabet CNN](https://www.kaggle.com/code/rkuo2000/asl-alphabet-cnn)
+  
 ---
 ## 3. 影像分類 (Image Classification)
-* 交通號誌偵測
-* 表情偵測
-* 垃圾分類
-* 肺炎偵測
-* 皮膚癌偵測
+* [交通號誌偵測](https://www.kaggle.com/code/rkuo2000/gtsrb-cnn)
+* [表情偵測](https://www.kaggle.com/code/rkuo2000/fer2013-cnn)
+* [口罩偵測口](https://www.kaggle.com/code/rkuo2000/facemask-cnn)
+* [垃圾分類](https://www.kaggle.com/code/rkuo2000/garbage-cnn)
+* [肺炎偵測](https://www.kaggle.com/code/rkuo2000/pneumonia-cnn)
+* [皮膚癌偵測](https://www.kaggle.com/code/rkuo2000/skin-lesion-classification)
 
 ---
 ## 4. 物件偵測 (Object Detection)
