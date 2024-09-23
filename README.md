@@ -93,7 +93,14 @@
 * [coqui TTS](https://www.kaggle.com/code/rkuo2000/coqui-tts)
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
 * [deepvoice-3](https://www.kaggle.com/code/rkuo2000/deepvoice3)
+* [bark Text-to-Audio](https://www.kaggle.com/code/rkuo2000/bark-tta)
 
+---
+### Whisper
+* [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
+* [fastwhisper](https://www.kaggle.com/code/rkuo2000/fastvseaclsbwhisper)
+* [https://www.kaggle.com/code/rkuo2000/faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
+  
 ---
 ### Voice/Music Seperation
 * [VoiceSplit](https://www.kaggle.com/code/rkuo2000/voicesplit)
@@ -103,8 +110,11 @@
 ## 9. 生成對抗神經網路 (GAN)
 * VAE
 * GAN
-* Inpainting Anything
-* NeRF
+
+
+* [Inpainting Anything]()
+* [Tiny-NeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
+* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
 
 ---
 ## 10.強化學習
