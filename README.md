@@ -38,7 +38,8 @@
 * [鋼鐵瑕疵偵測](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
   
 ---
-## 4. 物件偵測 (Object Detection)
+## 4. [物件偵測 (Object Detection)](https://rkuo2000.github.io/AI-course/lecture/2024/08/05/Object-Detection.html)
+
 * [YOLOv5](https://www.kaggle.com/code/rkuo2000/yolov5)
 * [車牌偵測](https://www.kaggle.com/code/rkuo2000/yolov5-alpr)
 * [血球偵測](https://www.kaggle.com/code/rkuo2000/yolov5-bccd)
@@ -50,7 +51,7 @@
 * [YOLOv10](https://www.kaggle.com/code/rkuo2000/yolov10)
 
 ---
-## 5. 影像分割 (Image Segmentation)
+## 5. [影像分割 (Image Segmentation)](https://rkuo2000.github.io/AI-course/lecture/2024/08/06/Image-Segmentation.html)
 
 * [Image Matting](https://www.kaggle.com/code/rkuo2000/modnet-image-matting)
 * [Semantic Segmentation](https://www.kaggle.com/code/rkuo2000/semantic-segmentation)
@@ -64,14 +65,14 @@
 * [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
   
 ---
-## 6. 姿態估計 (Pose Estimation)
+## 6. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2024/08/07/Pose-Estimation.html)
 * [PosNet](https://www.kaggle.com/code/rkuo2000/posenet-pytorch), [PoseNet Human-Pose](https://www.kaggle.com/code/rkuo2000/posenet-human-pose)
 * [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose-pytorch)
 * [MM-Pose](https://www.kaggle.com/code/rkuo2000/mmpose)
 * [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
 
 ---
-## 7. 循環神經網路 (Recurrent Neural Networks)
+## 7. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2024/08/08/RNN.html)
 
 ### 股票預測
 * [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm)
@@ -94,16 +95,14 @@
 
 ---
 ### Transformers
-
 * Transformers
-* GPT
 * [GTP2 Poem](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-poem)
 * [GPT2 Lyrics](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-lyrics)
 * [GPT2 Novel](https://www.kaggle.com/code/rkuo2000/gpt2-novel)
 * [GPT2 Twitterbot](https://www.kaggle.com/code/rkuo2000/gpt2-twitterbot)
 
 ---
-## 8. 語音模型介紹 
+## 8. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/09/Generative-Speech.html)
 
 ### Text-to-Speech
 * [coqui TTS](https://www.kaggle.com/code/rkuo2000/coqui-tts)
@@ -122,7 +121,7 @@
 * [Demucs](https://www.kaggle.com/code/rkuo2000/music-seperation-demucs)
   
 --- 
-## 9. 生成對抗神經網路 (GAN)
+## 9. [生成對抗神經網路 (GAN)](https://rkuo2000.github.io/AI-course/lecture/2024/08/09/GAN.html)
 
 ### VAE
 * [Neural Transfer](https://www.kaggle.com/code/rkuo2000/neural-transfer)
@@ -138,7 +137,7 @@
 * [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
 
 ---
-## 10.強化學習
+## 10.[強化學習(Reinforcement Learning](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
@@ -148,7 +147,7 @@
 * [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
   
 ---
-## 11.大型語言模型 (LLM)
+## 11. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2024/08/15/LLM.html)
 * [現代LLMs](https://www.kaggle.com/code/rkuo2000/contemporary-large-language-models-llms)
 * [LLM GPT4All](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
 * [privateGPT](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
@@ -159,11 +158,11 @@
 * [LLM Code-Llama](https://www.kaggle.com/code/rkuo2000/llm-code-llama)
 
 ---
-## 12. 視覺語言模型 (VLM/MLLM)
+## 12. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
 * [Gemini-1.5-Flash](https://www.kaggle.com/code/rkuo2000/gemini-1-5-flash)
   
 ---
-## 13. 其他
+## 13. 其他 (others)
 
 ### [生物化學深度學習](https://rkuo2000.github.io/AI-course/lecture/2022/12/15/Deep-Learning-for-Biochemistry.html)
 
