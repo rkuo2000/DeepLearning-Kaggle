@@ -10,7 +10,8 @@
 `git clone https://github.com/rkuo2000/cv2` <br>
 
 ---
-## 2. 卷積層神經網路 (Convolutional Neural Networks)
+## 2. [卷積層神經網路 (Convolutional Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2024/08/03/CNN.html) <br>
+
 * [MNIST-CNN](https://www.kaggle.com/code/rkuo2000/mnist-cnn)
 * [Fashion MNIST](https://www.kaggle.com/code/rkuo2000/fashionmnist-cnn)
 * [cifar10 CNN](https://www.kaggle.com/code/rkuo2000/cifar10-cnn), [Cifar10 Pytorch](https://www.kaggle.com/code/rkuo2000/cifar10-pytorch)
@@ -24,7 +25,8 @@
 * [AirDigit CNN](https://www.kaggle.com/code/rkuo2000/airdigit-cnn)
   
 ---
-## 3. 影像分類 (Image Classification)
+## 3. [影像分類 (Image Classification)](https://rkuo2000.github.io/AI-course/lecture/2024/08/03/CNN.html)
+
 * [交通號誌偵測](https://www.kaggle.com/code/rkuo2000/gtsrb-cnn)
 * [表情偵測](https://www.kaggle.com/code/rkuo2000/fer2013-cnn)
 * [口罩偵測口](https://www.kaggle.com/code/rkuo2000/facemask-cnn)
@@ -49,6 +51,7 @@
 
 ---
 ## 5. 影像分割 (Image Segmentation)
+
 * [Image Matting](https://www.kaggle.com/code/rkuo2000/modnet-image-matting)
 * [Semantic Segmentation](https://www.kaggle.com/code/rkuo2000/semantic-segmentation)
 * [DeepLabv3 plus](https://www.kaggle.com/code/rkuo2000/deeplabv3-plus)
