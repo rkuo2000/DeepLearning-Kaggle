@@ -17,6 +17,11 @@
 * [FERplus CNN](https://www.kaggle.com/code/rkuo2000/ferplus-cnn)
 * [Flower CNN](https://www.kaggle.com/code/rkuo2000/flower-cnn)
 * [ASL Alphabet CNN](https://www.kaggle.com/code/rkuo2000/asl-alphabet-cnn)
+
+* [Induction Motor Faults Detection](https://www.kaggle.com/code/rkuo2000/induction-motor-faults-detection)
+* [ECG Classification](https://www.kaggle.com/code/rkuo2000/ecg-classification)
+* [ECG DNN](https://www.kaggle.com/code/rkuo2000/ecg-dnn)
+* [AirDigit CNN](https://www.kaggle.com/code/rkuo2000/airdigit-cnn)
   
 ---
 ## 3. 影像分類 (Image Classification)
@@ -79,6 +84,10 @@
 ### 人格預測
 * [MBTI RNN](https://www.kaggle.com/code/rkuo2000/mbti-rnn)
 * [MBTI LSTM](https://www.kaggle.com/code/rkuo2000/mbti-lstm)
+
+---
+### 機具異常預測
+* [Senor Anomaly Detection](https://www.kaggle.com/code/rkuo2000/sensor-anomaly-detection)<br>
 
 ---
 ### Transformers
