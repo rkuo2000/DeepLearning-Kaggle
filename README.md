@@ -98,8 +98,7 @@
 ---
 ### Whisper
 * [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
-* [fastwhisper](https://www.kaggle.com/code/rkuo2000/fastvseaclsbwhisper)
-* [https://www.kaggle.com/code/rkuo2000/faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
+* [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
   
 ---
 ### Voice/Music Seperation
