@@ -95,7 +95,10 @@
 
 ---
 ### Transformers
-* Transformers
+* [Handwriting Transformers](https://www.kaggle.com/code/rkuo2000/handwriting-transformers)
+
+---
+### GPT2 (Generative Pre-trained Transformers)
 * [GTP2 Poem](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-poem)
 * [GPT2 Lyrics](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-lyrics)
 * [GPT2 Novel](https://www.kaggle.com/code/rkuo2000/gpt2-novel)
@@ -137,6 +140,12 @@
 * [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
 
 ---
+### [AIGC](https://rkuo2000.github.io/AI-course/lecture/2024/08/12/AIGC.html)
+* [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
+* [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
+* [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
+
+---
 ## 10.[強化學習(Reinforcement Learning](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
@@ -151,12 +160,14 @@
 * [現代LLMs](https://www.kaggle.com/code/rkuo2000/contemporary-large-language-models-llms)
 * [LLM GPT4All](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
 * [privateGPT](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
-* [LLM Llama from scratch](https://www.kaggle.com/code/rkuo2000/llm-llama-from-scratch)
+* [LLM Qwen1.5-7B-Chat](https://www.kaggle.com/code/rkuo2000/llm-qwen1-5-7b-chat)
 * [LLM Llama 2 for sentiment analysis](https://www.kaggle.com/code/rkuo2000/llm-llama-2-for-sentiment-analysis)
+* [LLM Llama from scratch](https://www.kaggle.com/code/rkuo2000/llm-llama-from-scratch)
+* [Eagle LLM](https://www.kaggle.com/code/rkuo2000/eagle-llm)
 * [LLM LlamaIndex](https://www.kaggle.com/code/rkuo2000/llm-llamaindex)
 * [RAG Langchain Chromadb](https://www.kaggle.com/code/rkuo2000/langchain-rag-chromadb)
 * [LLM Code-Llama](https://www.kaggle.com/code/rkuo2000/llm-code-llama)
-
+ 
 ---
 ## 12. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
 * [Gemini-1.5-Flash](https://www.kaggle.com/code/rkuo2000/gemini-1-5-flash)
