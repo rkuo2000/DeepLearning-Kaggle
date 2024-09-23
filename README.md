@@ -107,11 +107,17 @@
   
 --- 
 ## 9. 生成對抗神經網路 (GAN)
-* VAE
-* GAN
 
+### VAE
+* [Neural Transfer](https://www.kaggle.com/code/rkuo2000/neural-transfer)
+* [FashionMNIST VAE](https://www.kaggle.com/code/rkuo2000/fashionmnist-vae)
+* [AttentionHTR](https://www.kaggle.com/code/rkuo2000/attentionhtr)
 
-* [Inpainting Anything]()
+### GAN
+* [Inpainting Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)<br>
+* [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)<br>
+* [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
+  
 * [Tiny-NeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
 * [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
 
