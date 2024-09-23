@@ -94,6 +94,10 @@
 
 * Transformers
 * GPT
+* [GTP2 Poem](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-poem)
+* [GPT2 Lyrics](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-lyrics)
+* [GPT2 Novel](https://www.kaggle.com/code/rkuo2000/gpt2-novel)
+* [GPT2 Twitterbot](https://www.kaggle.com/code/rkuo2000/gpt2-twitterbot)
 
 ---
 ## 8. 語音模型介紹 
@@ -132,14 +136,34 @@
 
 ---
 ## 10.強化學習
-* Q-Learning
-* DQN
-* A2C
-* PPO
-* MAML
+* [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
+* [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
+* [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
+* [Stock A2C](https://www.kaggle.com/code/rkuo2000/stock-a2c)
+* [SB3 ALE](https://www.kaggle.com/code/rkuo2000/stable-baselines3-ale)
+* [PyBullet-Gym Ant](https://www.kaggle.com/code/rkuo2000/pybullet-gym-ant)
+* [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
+  
+---
+## 11.大型語言模型 (LLM)
+* [現代LLMs](https://www.kaggle.com/code/rkuo2000/contemporary-large-language-models-llms)
+* [LLM GPT4All](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
+* [privateGPT](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
+* [LLM Llama from scratch](https://www.kaggle.com/code/rkuo2000/llm-llama-from-scratch)
+* [LLM Llama 2 for sentiment analysis](https://www.kaggle.com/code/rkuo2000/llm-llama-2-for-sentiment-analysis)
+* [LLM LlamaIndex](https://www.kaggle.com/code/rkuo2000/llm-llamaindex)
+* [RAG Langchain Chromadb](https://www.kaggle.com/code/rkuo2000/langchain-rag-chromadb)
+* [LLM Code-Llama](https://www.kaggle.com/code/rkuo2000/llm-code-llama)
 
 ---
-## 11. 生物化學深度學習
-
+## 12. 視覺語言模型 (VLM/MLLM)
+* [Gemini-1.5-Flash](https://www.kaggle.com/code/rkuo2000/gemini-1-5-flash)
+  
 ---
-## 12. 心理學深度學習
+## 13. 其他
+
+### [生物化學深度學習](https://rkuo2000.github.io/AI-course/lecture/2022/12/15/Deep-Learning-for-Biochemistry.html)
+
+### [心理學深度學習](https://rkuo2000.github.io/AI-course/lecture/2022/12/22/Psychology-with-Deep-Learning.html)
+
+
