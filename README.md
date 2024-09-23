@@ -88,10 +88,17 @@
 
 ---
 ## 8. 語音模型介紹 
-* TTS
-* VoiceFilter
-* VoiceSynthesis
 
+### Text-to-Speech
+* [coqui TTS](https://www.kaggle.com/code/rkuo2000/coqui-tts)
+* [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
+* [deepvoice-3](https://www.kaggle.com/code/rkuo2000/deepvoice3)
+
+---
+### Voice/Music Seperation
+* [VoiceSplit](https://www.kaggle.com/code/rkuo2000/voicesplit)
+* [Demucs](https://www.kaggle.com/code/rkuo2000/music-seperation-demucs)
+  
 --- 
 ## 9. 生成對抗神經網路 (GAN)
 * VAE
