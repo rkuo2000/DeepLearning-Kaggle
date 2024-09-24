@@ -132,6 +132,9 @@
 * [AttentionHTR](https://www.kaggle.com/code/rkuo2000/attentionhtr)
 
 ### GAN
+* [Cartoon GAN](https://www.kaggle.com/code/rkuo2000/cartoon-gan)
+* [Toonify](https://www.kaggle.com/code/rkuo2000/toonify)
+* [StyleGAN2 ADA](https://www.kaggle.com/code/rkuo2000/stylegan2-ada)
 * [Inpainting Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)<br>
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)<br>
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
