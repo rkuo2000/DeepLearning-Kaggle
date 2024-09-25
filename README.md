@@ -27,7 +27,7 @@
 * [AirDigit CNN](https://www.kaggle.com/code/rkuo2000/airdigit-cnn)
   
 ---
-## 3. [影像分類 (Image Classification)](https://rkuo2000.github.io/AI-course/lecture/2024/08/03/CNN.html)
+## 3. [影像分類 (Image Classification)](https://rkuo2000.github.io/AI-course/lecture/2024/08/04/Image-Classification.html)
 
 * [交通號誌偵測](https://www.kaggle.com/code/rkuo2000/gtsrb-cnn)
 * [表情偵測](https://www.kaggle.com/code/rkuo2000/fer2013-cnn)
