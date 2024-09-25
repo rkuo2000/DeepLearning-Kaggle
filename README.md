@@ -2,7 +2,7 @@
 
 ## 1. AI & Kaggle Introduction
 
-### [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2024/08/01/AI-Brief.html)
+### [AI 介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/01/AI-Brief.html)
 
 ### [Kaggle平台使用介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/02/Kaggle-Intro.html)
 
