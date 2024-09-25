@@ -41,6 +41,7 @@
   
 ---
 ## 4. [物件偵測 (Object Detection)](https://rkuo2000.github.io/AI-course/lecture/2024/08/05/Object-Detection.html)
+**Dataset: [Roboflow](https://universe.roboflow.com/)** <br>
 
 * [YOLOv5](https://www.kaggle.com/code/rkuo2000/yolov5)
 * [車牌偵測](https://www.kaggle.com/code/rkuo2000/yolov5-alpr)
