@@ -178,7 +178,7 @@
 ---
 ## 12. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
 * [Gemini-1.5-Flash](https://www.kaggle.com/code/rkuo2000/gemini-1-5-flash)
-* [Llama-3.2-8B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
+* [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
   
 ---
 ## 13. 其他 (others)
