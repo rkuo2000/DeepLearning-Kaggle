@@ -65,7 +65,7 @@
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)
 * [Inpaint Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)
-* [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
+* [YOLOv8-Segment](https://www.kaggle.com/code/rkuo2000/yolov8-segment)
   
 ---
 ## 6. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2024/08/07/Pose-Estimation.html)
