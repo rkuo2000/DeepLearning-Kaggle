@@ -147,10 +147,20 @@
 
 ---
 ### [AIGC](https://rkuo2000.github.io/AI-course/lecture/2024/08/12/AIGC.html)
+
+#### Text-to-Image
 * [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
 * [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
 * [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
-
+  
+#### Image-to-3D
+* [TinyNeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
+* [Shape-E](https://www.kaggle.com/code/rkuo2000/shap-e)
+* [Zero123++](https://www.kaggle.com/code/rkuo2000/zero123plus)
+* [TripoSR](https://www.kaggle.com/code/rkuo2000/triposr)
+* [Stable Diffusion LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
+* [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
+  
 ---
 ## 10.[強化學習(Reinforcement Learning](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
