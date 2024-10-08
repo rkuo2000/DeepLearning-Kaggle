@@ -120,6 +120,7 @@
 ### Whisper
 * [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
 * [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
+* [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
   
 ---
 ### Voice/Music Seperation
