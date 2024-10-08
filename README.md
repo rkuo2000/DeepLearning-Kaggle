@@ -141,9 +141,6 @@
 * [Inpainting Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)<br>
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)<br>
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
-  
-* [Tiny-NeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
-* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
 
 ---
 ### [AIGC](https://rkuo2000.github.io/AI-course/lecture/2024/08/12/AIGC.html)
@@ -158,7 +155,7 @@
 * [Shape-E](https://www.kaggle.com/code/rkuo2000/shap-e)
 * [Zero123++](https://www.kaggle.com/code/rkuo2000/zero123plus)
 * [TripoSR](https://www.kaggle.com/code/rkuo2000/triposr)
-* [Stable Diffusion LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
+* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
 * [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
   
 ---
