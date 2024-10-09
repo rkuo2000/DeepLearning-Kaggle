@@ -162,7 +162,7 @@
 * [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
   
 ---
-## 10.[強化學習(Reinforcement Learning](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
+## 10.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
