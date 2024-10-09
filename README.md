@@ -184,6 +184,7 @@
 * [LLM LlamaIndex](https://www.kaggle.com/code/rkuo2000/llm-llamaindex)
 * [RAG Langchain Chromadb](https://www.kaggle.com/code/rkuo2000/langchain-rag-chromadb)
 * [LLM Code-Llama](https://www.kaggle.com/code/rkuo2000/llm-code-llama)
+* [LLM Llama-3.2](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2)
  
 ---
 ## 12. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
