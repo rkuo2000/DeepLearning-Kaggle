@@ -175,7 +175,7 @@
 ## 11. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2024/08/15/LLM.html)
 * [現代LLMs](https://www.kaggle.com/code/rkuo2000/contemporary-large-language-models-llms)
 * [LLM GPT4All](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
-* [privateGPT](https://www.kaggle.com/code/rkuo2000/llm-gpt4all-j)
+* [privateGPT](https://www.kaggle.com/code/rkuo2000/privateGPT)
 * [LLM Qwen1.5-7B-Chat](https://www.kaggle.com/code/rkuo2000/llm-qwen1-5-7b-chat)
 * [LLM Llama 2 for sentiment analysis](https://www.kaggle.com/code/rkuo2000/llm-llama-2-for-sentiment-analysis)
 * [LLM Llama from scratch](https://www.kaggle.com/code/rkuo2000/llm-llama-from-scratch)
