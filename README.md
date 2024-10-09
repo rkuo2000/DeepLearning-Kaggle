@@ -63,6 +63,7 @@
 * [Segment Anything](https://www.kaggle.com/code/rkuo2000/segment-anything)
 * [FastSAM](https://www.kaggle.com/code/rkuo2000/fastsam)
 * [SAM2](https://www.kaggle.com/code/rkuo2000/segment-anything-2)
+* [SAM2 image](https://www.kaggle.com/code/rkuo2000/sam2-image)
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)
 * [Inpaint Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)
