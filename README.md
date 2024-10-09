@@ -52,6 +52,7 @@
 * [垃圾偵測](https://www.kaggle.com/code/rkuo2000/yolov5-taco)
 * [YOLOv7](https://www.kaggle.com/code/rkuo2000/yolov7),[YOLOv7 Sushi Detection](https://www.kaggle.com/code/rkuo2000/yolov7-sushi-detection), [YOLOv7 RefrigeratoryFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigeratoryfood), [YOLOv7 Pothole](https://www.kaggle.com/code/rkuo2000/yolov7-pothole)
 * [YOLOv10](https://www.kaggle.com/code/rkuo2000/yolov10)
+* [YOLOv11](https://www.kaggle.com/code/rkuo2000/yolov11)
 
 ---
 ## 5. [影像分割 (Image Segmentation)](https://rkuo2000.github.io/AI-course/lecture/2024/08/06/Image-Segmentation.html)
