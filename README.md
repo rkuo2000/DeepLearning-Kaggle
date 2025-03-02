@@ -192,10 +192,9 @@
 * [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
   
 ---
-## 13. 其他 (others)
+## 13. Agentic AI
 
-### [生物化學深度學習](https://rkuo2000.github.io/AI-course/lecture/2022/12/15/Deep-Learning-for-Biochemistry.html)
-
-### [心理學深度學習](https://rkuo2000.github.io/AI-course/lecture/2022/12/22/Psychology-with-Deep-Learning.html)
-
-
+* [LangChain-RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
+* [Swarm Llama3-Groq](https://www.kaggle.com/code/rkuo2000/swarm-llama3-groq)
+* [smolagents](https://www.kaggle.com/code/rkuo2000/smolagents)
+  
