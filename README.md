@@ -86,7 +86,7 @@
 * [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
 
 ---
-## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2024/08/08/RNN.html)
+## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/07/RNN.html)
 
 ### 股票預測
 * [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm)
