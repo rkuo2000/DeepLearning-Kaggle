@@ -1,8 +1,10 @@
 # Deep Learning
 
-## 1. AI & Kaggle Introduction
+## 1. AI 介紹
 
-### [AI 介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Brief.html)
+### [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Brief.html)
+
+### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Hardwares.html)
 
 ### [Kaggle平台使用介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/Kaggle-Intro.html)
 
