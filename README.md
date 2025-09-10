@@ -184,7 +184,8 @@
 ## 12. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2024/08/15/LLM.html)
 * [TinyLlama v1.1](https://www.kaggle.com/code/rkuo2000/tinyllama-v1-1)
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
-* [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
+* [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
+* [Gemini-2.5-flash](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash/)
 
 ---
 ## 13. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
