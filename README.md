@@ -193,9 +193,20 @@
 * [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
   
 ---
-## 14. Agentic AI
+## 14. Agent
 
-* [LangChain-RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
-* [Swarm Llama3-Groq](https://www.kaggle.com/code/rkuo2000/swarm-llama3-groq)
-* [smolagents](https://www.kaggle.com/code/rkuo2000/smolagents)
-  
+### [AG2: Open-Source AgentOS for AI Agents](https://github.com/ag2ai/ag2)
+* [AG2 Agent coding](https://www.kaggle.com/code/rkuo2000/ag2-agent-coding)
+* [AG2 Agent Tools and Run Method examples](https://www.kaggle.com/code/rkuo2000/ag2-agent-tools-and-run-method-examples)
+* [AG2 Conversable Agent](https://www.kaggle.com/code/rkuo2000/ag2-conversable-agent)
+* [AG2 Group Chat](https://www.kaggle.com/code/rkuo2000/ag2-group-chat)
+* [AG2 Groupchat with RAG](https://www.kaggle.com/code/rkuo2000/ag2-groupchat-with-rag)
+
+### [DSPy: Programming—not prompting—Foundation Models](https://github.com/stanfordnlp/dspy)
+* [DSPy AirlineCustomerService](https://www.kaggle.com/code/rkuo2000/dspy-airlinecustomerservice)
+* [DSPy Image Generation Prompt Iteration](https://www.kaggle.com/code/rkuo2000/dspy-image-generation-prompt-iteration/)
+
+### [Smolagents](https://github.com/huggingface/smolagents)
+* [Smolagents simple](https://www.kaggle.com/code/rkuo2000/smolagents-simple)
+* [smolagents websearch](https://www.kaggle.com/code/rkuo2000/smolagents-websearch)
+
