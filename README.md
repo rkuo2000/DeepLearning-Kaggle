@@ -120,7 +120,23 @@
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
 
 ---
-## 10. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
+## 10. Generative Image/Video
+
+#### Text-to-Image
+* [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
+* [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
+* [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
+  
+#### Image-to-3D
+* [TinyNeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
+* [Shape-E](https://www.kaggle.com/code/rkuo2000/shap-e)
+* [Zero123++](https://www.kaggle.com/code/rkuo2000/zero123plus)
+* [TripoSR](https://www.kaggle.com/code/rkuo2000/triposr)
+* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
+* [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
+  
+---
+## 11. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
 
 ### Text-to-Speech
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
@@ -137,25 +153,9 @@
 * [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
 * [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
-
+*   
 ---
-### [AIGC](https://rkuo2000.github.io/AI-course/lecture/2024/08/12/AIGC.html)
-
-#### Text-to-Image
-* [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
-* [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
-* [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
-  
-#### Image-to-3D
-* [TinyNeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
-* [Shape-E](https://www.kaggle.com/code/rkuo2000/shap-e)
-* [Zero123++](https://www.kaggle.com/code/rkuo2000/zero123plus)
-* [TripoSR](https://www.kaggle.com/code/rkuo2000/triposr)
-* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
-* [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
-  
----
-## 11.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
+## 12.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
@@ -165,7 +165,7 @@
 * [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
   
 ---
-## 12. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2024/08/15/LLM.html)
+## 13. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2024/08/15/LLM.html)
 * [TinyLlama v1.1](https://www.kaggle.com/code/rkuo2000/tinyllama-v1-1)
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
 * [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
