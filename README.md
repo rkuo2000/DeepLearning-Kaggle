@@ -62,7 +62,6 @@
 
 * [Image Matting](https://www.kaggle.com/code/rkuo2000/modnet-image-matting)
 * [Semantic Segmentation](https://www.kaggle.com/code/rkuo2000/semantic-segmentation)
-* [DeepLabv3 plus](https://www.kaggle.com/code/rkuo2000/deeplabv3-plus)
 * [Segment Anything](https://www.kaggle.com/code/rkuo2000/segment-anything)
 * [FastSAM](https://www.kaggle.com/code/rkuo2000/fastsam)
 * [SAM2](https://www.kaggle.com/code/rkuo2000/segment-anything-2)
@@ -92,24 +91,17 @@
 * [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm)
 * [Stock LSTM MACD](https://www.kaggle.com/code/rkuo2000/stock-lstm-macd)
 
----
 ### 天氣預測
 * [Weather LSTM](https://www.kaggle.com/code/rkuo2000/weather-lstm)
 * [Temperature Nowcasting](https://www.kaggle.com/code/rkuo2000/temperature-nowcasting)
 * [NeuralGCM](https://www.kaggle.com/code/rkuo2000/neuralgcm)
 
----
 ### 人格預測
 * [MBTI RNN](https://www.kaggle.com/code/rkuo2000/mbti-rnn)
 * [MBTI LSTM](https://www.kaggle.com/code/rkuo2000/mbti-lstm)
 
----
 ### 機具異常預測
 * [Senor Anomaly Detection](https://www.kaggle.com/code/rkuo2000/sensor-anomaly-detection)<br>
-
----
-### Transformers
-* [Handwriting Transformers](https://www.kaggle.com/code/rkuo2000/handwriting-transformers)
 
 ---
 ## 9. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/09/Generative-Speech.html)
