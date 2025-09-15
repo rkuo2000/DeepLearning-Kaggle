@@ -195,6 +195,9 @@
 ---
 ## 14. Agent
 
+### LangChain
+* [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
+
 ### [AG2: Open-Source AgentOS for AI Agents](https://github.com/ag2ai/ag2)
 * [AG2 Agent coding](https://www.kaggle.com/code/rkuo2000/ag2-agent-coding)
 * [AG2 Agent Tools and Run Method examples](https://www.kaggle.com/code/rkuo2000/ag2-agent-tools-and-run-method-examples)
