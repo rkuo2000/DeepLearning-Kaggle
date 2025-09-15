@@ -163,7 +163,8 @@
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
 * [Stock A2C](https://www.kaggle.com/code/rkuo2000/stock-a2c)
-* [SB3 ALE](https://www.kaggle.com/code/rkuo2000/stable-baselines3-ale)
+* [ALE SB3(A2C)](https://www.kaggle.com/code/rkuo2000/stable-baselines3-ale)
+* [Huggingface SB3(PPO)](https://www.kaggle.com/code/rkuo2000/huggingface-stable-baselines3)
 * [PyBullet-Gym Ant](https://www.kaggle.com/code/rkuo2000/pybullet-gym-ant)
 * [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
   
