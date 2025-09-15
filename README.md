@@ -70,7 +70,7 @@
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)
 * [Inpaint Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)
-* [YOLOv8-Segment](https://www.kaggle.com/code/rkuo2000/yolov8-segment)
+* [YOLOv11 Segment](https://www.kaggle.com/code/rkuo2000/yolov11-segment)
 
 ---
 ## 6. [人臉識別 (Face Recognition)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Face-Recognition.html)
@@ -83,7 +83,7 @@
 * [PosNet](https://www.kaggle.com/code/rkuo2000/posenet-pytorch), [PoseNet Human-Pose](https://www.kaggle.com/code/rkuo2000/posenet-human-pose)
 * [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose)
 * [MM-Pose](https://www.kaggle.com/code/rkuo2000/mmpose)
-* [YOLOv8-Pose](https://www.kaggle.com/code/rkuo2000/yolov8-pose)
+* [YOLOv11-Pose](https://www.kaggle.com/code/rkuo2000/yolov11-pose)
 
 ---
 ## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/07/RNN.html)
