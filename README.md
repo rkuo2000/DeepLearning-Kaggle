@@ -174,7 +174,9 @@
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
 * [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
 * [Gemini-2.5-flash](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash/)
-
+* [Llama-from-scratch](https://www.kaggle.com/code/rkuo2000/llm-llama-from-scratch)
+* [Llama4-from-scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
+  
 ---
 ## 14. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
 * [Gemini-1.5-Flash](https://www.kaggle.com/code/rkuo2000/gemini-1-5-flash)
