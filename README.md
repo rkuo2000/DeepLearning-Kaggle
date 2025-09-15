@@ -112,13 +112,6 @@
 * [Handwriting Transformers](https://www.kaggle.com/code/rkuo2000/handwriting-transformers)
 
 ---
-### GPT2 (Generative Pre-trained Transformers)
-* [GTP2 Poem](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-poem)
-* [GPT2 Lyrics](https://www.kaggle.com/code/rkuo2000/gpt2-chinese-lyrics)
-* [GPT2 Novel](https://www.kaggle.com/code/rkuo2000/gpt2-novel)
-* [GPT2 Twitterbot](https://www.kaggle.com/code/rkuo2000/gpt2-twitterbot)
-
----
 ## 9. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/09/Generative-Speech.html)
 
 ### Text-to-Speech
