@@ -103,28 +103,8 @@
 ### 機具異常預測
 * [Senor Anomaly Detection](https://www.kaggle.com/code/rkuo2000/sensor-anomaly-detection)<br>
 
----
-## 9. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2024/08/09/Generative-Speech.html)
-
-### Text-to-Speech
-* [coqui TTS](https://www.kaggle.com/code/rkuo2000/coqui-tts)
-* [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
-* [deepvoice-3](https://www.kaggle.com/code/rkuo2000/deepvoice3)
-* [bark Text-to-Audio](https://www.kaggle.com/code/rkuo2000/bark-tta)
-
----
-### Audio-to-Text (ASR)
-* [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
-* [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
-* [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
-  
----
-### Voice/Music Seperation
-* [VoiceSplit](https://www.kaggle.com/code/rkuo2000/voicesplit)
-* [Demucs](https://www.kaggle.com/code/rkuo2000/music-seperation-demucs)
-  
 --- 
-## 10. [生成對抗神經網路 (GAN)](https://rkuo2000.github.io/AI-course/lecture/2024/08/09/GAN.html)
+## 9. [生成對抗神經網路 (GAN)](https://rkuo2000.github.io/AI-course/lecture/2025/09/08/GAN.html)
 
 ### VAE
 * [Neural Transfer](https://www.kaggle.com/code/rkuo2000/neural-transfer)
@@ -138,6 +118,25 @@
 * [Inpainting Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)<br>
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)<br>
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
+
+---
+## 10. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
+
+### Text-to-Speech
+* [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
+* [deepvoice-3](https://www.kaggle.com/code/rkuo2000/deepvoice3)
+* [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
+
+---
+### Voice/Music Seperation
+* [VoiceSplit](https://www.kaggle.com/code/rkuo2000/voicesplit)
+* [Demucs](https://www.kaggle.com/code/rkuo2000/music-seperation-demucs)
+
+---
+### Audio-to-Text (ASR)
+* [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
+* [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
+* [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
 
 ---
 ### [AIGC](https://rkuo2000.github.io/AI-course/lecture/2024/08/12/AIGC.html)
