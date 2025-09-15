@@ -155,7 +155,7 @@
 * [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
 * [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
-*   
+   
 ---
 ## 12.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2024/08/10/Reinforcement-Learning.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
@@ -174,12 +174,12 @@
 * [Gemini-2.5-flash](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash/)
 
 ---
-## 13. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
+## 14. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2024/08/16/VLM.html)
 * [Gemini-1.5-Flash](https://www.kaggle.com/code/rkuo2000/gemini-1-5-flash)
 * [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
   
 ---
-## 14. Agent
+## 15. Agent
 
 ### [LangChain RAG](https://python.langchain.com/docs/tutorials/rag/)
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
