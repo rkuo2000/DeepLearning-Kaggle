@@ -197,6 +197,7 @@
 
 ### LangChain
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
+* [LangChain RAG Webpage](https://www.kaggle.com/code/rkuo2000/langchain-rag-webpage)
 
 ### [AG2: Open-Source AgentOS for AI Agents](https://github.com/ag2ai/ag2)
 * [AG2 Agent coding](https://www.kaggle.com/code/rkuo2000/ag2-agent-coding)
