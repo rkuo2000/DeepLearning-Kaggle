@@ -126,6 +126,8 @@
 * [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
 * [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
 * [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
+- [ComfyUI Flux.1 ControlNet 介紹](https://docs.comfy.org/tutorials/flux/flux-1-controlnet)
+- [ComfyUI Hunyuan Video 介紹](https://docs.comfy.org/tutorials/video/hunyuan-video)
   
 #### Image-to-3D
 * [TinyNeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
