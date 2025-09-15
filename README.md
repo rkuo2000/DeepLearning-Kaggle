@@ -80,7 +80,7 @@
 
 ---
 ## 7. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Pose-Estimation.html)
-* [PosNet](https://www.kaggle.com/code/rkuo2000/posenet-pytorch), [PoseNet Human-Pose](https://www.kaggle.com/code/rkuo2000/posenet-human-pose)
+* [PosNet](https://www.kaggle.com/code/rkuo2000/posenet)
 * [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose)
 * [MM-Pose](https://www.kaggle.com/code/rkuo2000/mmpose)
 * [YOLOv11-Pose](https://www.kaggle.com/code/rkuo2000/yolov11-pose)
