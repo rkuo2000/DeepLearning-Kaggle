@@ -191,7 +191,7 @@
 
 ### [Smolagents](https://github.com/huggingface/smolagents)
 * [Smolagents simple](https://www.kaggle.com/code/rkuo2000/smolagents-simple)
-* [smolagents websearch](https://www.kaggle.com/code/rkuo2000/smolagents-websearch)
+* [Smolagents websearch](https://www.kaggle.com/code/rkuo2000/smolagents-websearch)
 
 ### [DSPy](https://github.com/stanfordnlp/dspy)
 * [DSPy AirlineCustomerService](https://www.kaggle.com/code/rkuo2000/dspy-airlinecustomerservice)
