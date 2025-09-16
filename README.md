@@ -139,7 +139,7 @@
 * [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
   
 ---
-## 11. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
+## 11. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Speech.html)
 
 ### Text-to-Speech
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
