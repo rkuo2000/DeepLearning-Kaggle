@@ -127,6 +127,7 @@
 * [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
 * [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
 * [ComfyUI Kaggle - March 2025](https://www.kaggle.com/code/pogscafe/comfyui-kaggle-march-2025)
+  
 [ComfyUI Flux.1 ControlNet 介紹](https://docs.comfy.org/tutorials/flux/flux-1-controlnet)<br>
 [ComfyUI Hunyuan Video 介紹](https://docs.comfy.org/tutorials/video/hunyuan-video)<br>
   
