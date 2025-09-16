@@ -183,7 +183,7 @@
 * [Gemini-2-5-flash Image](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash-image)
   
 ---
-## 15. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/Agent.html)
+## 15. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/Agents.html)
 
 ### [LangChain RAG](https://python.langchain.com/docs/tutorials/rag/)
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
