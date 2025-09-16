@@ -119,7 +119,7 @@
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
 
 ---
-## 10. [Generative Image/Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative_Image_Video.html)
+## 10. [Generative Image/Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative_Image_Video.html)
 
 #### Text-to-Image
 * [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
