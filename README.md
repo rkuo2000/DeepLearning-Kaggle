@@ -193,7 +193,7 @@
 * [Smolagents simple](https://www.kaggle.com/code/rkuo2000/smolagents-simple)
 * [smolagents websearch](https://www.kaggle.com/code/rkuo2000/smolagents-websearch)
 
-### [DSPy: Programming—not prompting—Foundation Models](https://github.com/stanfordnlp/dspy)
+### [DSPy](https://github.com/stanfordnlp/dspy)
 * [DSPy AirlineCustomerService](https://www.kaggle.com/code/rkuo2000/dspy-airlinecustomerservice)
 * [DSPy Image Generation Prompt Iteration](https://www.kaggle.com/code/rkuo2000/dspy-image-generation-prompt-iteration/)
   
