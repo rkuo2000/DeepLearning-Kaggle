@@ -40,9 +40,9 @@
 * [鐵道偵測 Resnet50v2](https://www.kaggle.com/code/rkuo2000/railtrack-resnet50v2)
 * [鐵道偵測 EfficientNet](https://www.kaggle.com/code/rkuo2000/railtrack-efficientnet)
 * [鋼鐵瑕疵偵測](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
-* [腸胃疾病偵測 Resnet50](https://www.kaggle.com/code/rkuo2000/gastrointestinal-renset50)
-* [腸胃疾病偵測 EfficientNet-v2s](https://www.kaggle.com/code/rkuo2000/gastrontestinal-efficientnet-v2s)
-* [腸胃疾病偵測 Resnet152+ViT](https://www.kaggle.com/code/rkuo2000/gastrointestinal-resnet152vit)
+* [腸胃道疾病偵測 Resnet50](https://www.kaggle.com/code/rkuo2000/gastrointestinal-renset50)
+* [腸胃道疾病偵測 EfficientNet-v2s](https://www.kaggle.com/code/rkuo2000/gastrointestinal-tract-efficientnet-v2s)
+* [腸胃道疾病偵測 Resnet152+ViT](https://www.kaggle.com/code/rkuo2000/gastrointestinal-resnet152vit)
   
 ---
 ## 4. [物件偵測 (Object Detection)](https://rkuo2000.github.io/AI-course/lecture/2025/09/04/Object-Detection.html)
