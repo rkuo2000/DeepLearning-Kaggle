@@ -77,6 +77,7 @@
 ---
 ## 6. [人臉識別 (Face Recognition)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Face-Recognition.html)
 
+* [YOLOv12-Face](https://www.kaggle.com/code/rkuo2000/yolov12-face)
 * [DeepFace](https://www.kaggle.com/code/rkuo2000/deepface)
 * [FaceNet](https://www.kaggle.com/code/rkuo2000/facenet-pytorch)
 
