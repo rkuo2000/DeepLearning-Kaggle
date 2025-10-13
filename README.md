@@ -162,9 +162,10 @@
 ---
 ### Audio-to-Text (ASR)
 * [whisper](https://www.kaggle.com/code/rkuo2000/whisper)
+* [asr-whisper](https://www.kaggle.com/code/rkuo2000/asr-whisper)
+* [asr-canary-1b](https://www.kaggle.com/code/rkuo2000/asr-canary-1b)
 * [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
-
 
 ---
 ## 12. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/Generative-Song.html)
