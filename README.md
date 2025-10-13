@@ -151,9 +151,12 @@
 
 ### Text-to-Speech
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
-* [deepvoice-3](https://www.kaggle.com/code/rkuo2000/deepvoice3)
-* [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
+* [Google TTS](https://www.kaggle.com/code/rkuo2000/google-tts)
 
+---
+### Voice Cloning
+* [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
+  
 ---
 ### Voice/Music Seperation
 * [VoiceSplit](https://www.kaggle.com/code/rkuo2000/voicesplit)
