@@ -156,6 +156,7 @@
 ---
 ### Voice Cloning
 * [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
+* [Index-TTS2](https://www.kaggle.com/code/rkuo2000/index-tts2)
   
 ---
 ### Voice/Music Seperation
