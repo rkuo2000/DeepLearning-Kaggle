@@ -175,7 +175,7 @@
 * [jamify](https://www.kaggle.com/code/rkuo2000/jamify)
     
 ---
-## 14.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/RL.html)
+## 14. [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/RL.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
