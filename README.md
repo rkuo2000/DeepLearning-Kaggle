@@ -6,7 +6,7 @@
 
 ### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Hardwares.html)
 
-### [Python語言介紹](https://www.w3schools.com/python/python_intro.asp)
+### [PC 軟體安裝](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/PC-Softwares.html)
 
 ### [OpenCV-Python 影像處理](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/OpenCV-Python.html)
 
