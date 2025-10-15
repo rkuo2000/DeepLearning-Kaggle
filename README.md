@@ -6,12 +6,9 @@
 
 ### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Hardwares.html)
 
-### [Kaggle平台使用介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/Kaggle-Intro.html)
-
 ### [Python語言介紹](https://www.w3schools.com/python/python_intro.asp)
 
-### [OpenCV-Python的使用介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/OpenCV-Python.html)
-`git clone https://github.com/rkuo2000/cv2` <br>
+### [OpenCV-Python 影像處理](https://rkuo2000.github.io/AI-course/lecture/2025/09/02/OpenCV-Python.html)
 
 ---
 ## 2. [卷積層神經網路 (Convolutional Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/03/CNN.html) <br>
@@ -75,18 +72,19 @@
 * [Inpaint Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)
 * [YOLOv11 Segment](https://www.kaggle.com/code/rkuo2000/yolov11-segment)
 
+
 ---
-## 6. [人臉識別 (Face Recognition)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Face-Recognition.html)
+## 6. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Pose-Estimation.html)
+* [PosNet](https://www.kaggle.com/code/rkuo2000/posenet)
+* [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose)
+* [YOLOv11-Pose](https://www.kaggle.com/code/rkuo2000/yolov11-pose)
+
+---
+## 7. [人臉識別 (Face Recognition)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Face-Recognition.html)
 
 * [YOLOv12-Face](https://www.kaggle.com/code/rkuo2000/yolov12-face)
 * [DeepFace](https://www.kaggle.com/code/rkuo2000/deepface)
 * [FaceNet](https://www.kaggle.com/code/rkuo2000/facenet-pytorch)
-
----
-## 7. [姿態估計 (Pose Estimation)](https://rkuo2000.github.io/AI-course/lecture/2025/09/06/Pose-Estimation.html)
-* [PosNet](https://www.kaggle.com/code/rkuo2000/posenet)
-* [OpenPose](https://www.kaggle.com/code/rkuo2000/openpose)
-* [YOLOv11-Pose](https://www.kaggle.com/code/rkuo2000/yolov11-pose)
 
 ---
 ## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/07/RNN.html)
@@ -124,31 +122,7 @@
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
 
 ---
-## 10. [Generative Image](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Image.html)
-
-#### Text-to-Image
-* [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
-* [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
-* [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
-* [ComfyUI Kaggle - March 2025](https://www.kaggle.com/code/pogscafe/comfyui-kaggle-march-2025)
-  
-[ComfyUI Flux.1 ControlNet 介紹](https://docs.comfy.org/tutorials/flux/flux-1-controlnet)<br>
-[ComfyUI Hunyuan Video 介紹](https://docs.comfy.org/tutorials/video/hunyuan-video)<br>
-  
-#### Image-to-3D
-* [TinyNeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
-* [Shape-E](https://www.kaggle.com/code/rkuo2000/shap-e)
-* [Zero123++](https://www.kaggle.com/code/rkuo2000/zero123plus)
-* [TripoSR](https://www.kaggle.com/code/rkuo2000/triposr)
-* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
-* [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
-
----
-## 11. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Video.html)
-
----
-## 12. [語音模型介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Speech.html)
-
+## 10. [Generative Speech](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
 ### Text-to-Speech
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
 * [Google TTS](https://www.kaggle.com/code/rkuo2000/google-tts)
@@ -172,13 +146,36 @@
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
 
 ---
-## 12. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/Generative-Song.html)
+## 11. [Generative Image](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Image.html)
+
+#### Text-to-Image
+* [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
+* [SDXL Base1.0](https://www.kaggle.com/code/rkuo2000/sdxl-base-1-0)
+* [SDXL-Lighting](https://www.kaggle.com/code/rkuo2000/sdxl-lightning)
+* [ComfyUI Kaggle - March 2025](https://www.kaggle.com/code/pogscafe/comfyui-kaggle-march-2025)
+  
+[ComfyUI Flux.1 ControlNet 介紹](https://docs.comfy.org/tutorials/flux/flux-1-controlnet)<br>
+[ComfyUI Hunyuan Video 介紹](https://docs.comfy.org/tutorials/video/hunyuan-video)<br>
+  
+#### Image-to-3D
+* [TinyNeRF](https://www.kaggle.com/code/rkuo2000/tiny-nerf)
+* [Shape-E](https://www.kaggle.com/code/rkuo2000/shap-e)
+* [Zero123++](https://www.kaggle.com/code/rkuo2000/zero123plus)
+* [TripoSR](https://www.kaggle.com/code/rkuo2000/triposr)
+* [LDM3D](https://www.kaggle.com/code/rkuo2000/stable-diffusion-ldm3d)
+* [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
+
+---
+## 12. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Video.html)
+
+---
+## 13. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/Generative-Song.html)
 
 ### Text-to-Song
 * [jamify](https://www.kaggle.com/code/rkuo2000/jamify)
     
 ---
-## 13.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/RL.html)
+## 14.[強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/RL.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
@@ -193,7 +190,7 @@
 ### [RL Robot Dexity](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/RL-Robot-Dexity.html)
 
 ---
-## 14. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/LLM.html)
+## 15. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/14/LLM.html)
 * [TinyLlama v1.1](https://www.kaggle.com/code/rkuo2000/tinyllama-v1-1)
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
 * [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
@@ -202,12 +199,12 @@
 * [Llama4-from-scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
   
 ---
-## 15. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/VLM.html)
+## 16. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2025/09/14/VLM.html)
 * [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
 * [Gemini-2-5-flash Image](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash-image)
   
 ---
-## 16. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/Agents.html)
+## 17. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
 
 ### [LangChain RAG](https://python.langchain.com/docs/tutorials/rag/)
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
