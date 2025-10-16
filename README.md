@@ -24,6 +24,9 @@
 * [ECG Classification](https://www.kaggle.com/code/rkuo2000/ecg-classification)
 * [ECG DNN](https://www.kaggle.com/code/rkuo2000/ecg-dnn)
 * [AirDigit CNN](https://www.kaggle.com/code/rkuo2000/airdigit-cnn)
+
+* [MNIST-PyTorch](https://www.kaggle.com/code/rkuo2000/mnist-pytorch/)
+* [FashionMNIST-PyTorch](https://www.kaggle.com/code/rkuo2000/fashionmnist-pytorch/)
   
 ---
 ## 3. [影像分類 (Image Classification)](https://rkuo2000.github.io/AI-course/lecture/2025/09/03/Image-Classification.html)
@@ -90,8 +93,9 @@
 ## 8. [循環神經網路 (Recurrent Neural Networks)](https://rkuo2000.github.io/AI-course/lecture/2025/09/07/RNN.html)
 
 ### 股票預測
-* [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm)
+* [Stock LSTM](https://www.kaggle.com/code/rkuo2000/stock-lstm), [Stock LSTM PyTorch](https://www.kaggle.com/code/rkuo2000/stock-lstm-pytorch)
 * [Stock LSTM MACD](https://www.kaggle.com/code/rkuo2000/stock-lstm-macd)
+
 
 ### 天氣預測
 * [Weather LSTM](https://www.kaggle.com/code/rkuo2000/weather-lstm)
