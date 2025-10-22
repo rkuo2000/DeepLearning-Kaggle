@@ -149,8 +149,15 @@
 * [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
 
+
 ---
-## 11. [Generative Image](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Image.html)
+## 11. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Song.html)
+
+### Text-to-Song
+* [jamify](https://www.kaggle.com/code/rkuo2000/jamify)
+  
+---
+## 12. [Generative Image](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/Generative-Image.html)
 
 #### Text-to-Image
 * [LCM-LoRA](https://www.kaggle.com/code/rkuo2000/lcm-lora)
@@ -170,31 +177,10 @@
 * [Depth-Pro](https://www.kaggle.com/code/rkuo2000/depth-pro)
 
 ---
-## 12. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Video.html)
+## 13. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/Generative-Video.html)
 
 ---
-## 13. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/Generative-Song.html)
-
-### Text-to-Song
-* [jamify](https://www.kaggle.com/code/rkuo2000/jamify)
-    
----
-## 14. [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/RL.html)
-* [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
-* [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
-* [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
-* [Stock A2C](https://www.kaggle.com/code/rkuo2000/stock-a2c)
-* [ALE SB3(A2C)](https://www.kaggle.com/code/rkuo2000/stable-baselines3-ale)
-* [Huggingface SB3(PPO)](https://www.kaggle.com/code/rkuo2000/huggingface-stable-baselines3)
-* [PyBullet-Gym Ant](https://www.kaggle.com/code/rkuo2000/pybullet-gym-ant)
-* [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
-
-### [RL Robot Gym](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/RL-Robot-Gym.html)
-
-### [RL Robot Dexity](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/RL-Robot-Dexity.html)
-
----
-## 15. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/14/LLM.html)
+## 14. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)
 * [TinyLlama v1.1](https://www.kaggle.com/code/rkuo2000/tinyllama-v1-1)
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
 * [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
@@ -202,13 +188,12 @@
 * [Llama-from-scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
 * [Llama4-from-scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
   
----
-## 16. [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2025/09/14/VLM.html)
+### [視覺語言模型 (VLM/MLLM)](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/VLM.html)
 * [Llama-3.2-11B-Vision-Instruct](https://www.kaggle.com/code/rkuo2000/llm-llama-3-2/)
 * [Gemini-2-5-flash Image](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash-image)
   
 ---
-## 17. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
+## 15. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
 
 ### [LangChain RAG](https://python.langchain.com/docs/tutorials/rag/)
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
@@ -228,3 +213,19 @@
 * [AG2 Conversable Agent](https://www.kaggle.com/code/rkuo2000/ag2-conversable-agent)
 * [AG2 Group Chat](https://www.kaggle.com/code/rkuo2000/ag2-group-chat)
 * [AG2 Groupchat with RAG](https://www.kaggle.com/code/rkuo2000/ag2-groupchat-with-rag)
+
+* 
+---
+## 16. [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/RL.html)
+* [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
+* [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
+* [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
+* [Stock A2C](https://www.kaggle.com/code/rkuo2000/stock-a2c)
+* [ALE SB3(A2C)](https://www.kaggle.com/code/rkuo2000/stable-baselines3-ale)
+* [Huggingface SB3(PPO)](https://www.kaggle.com/code/rkuo2000/huggingface-stable-baselines3)
+* [PyBullet-Gym Ant](https://www.kaggle.com/code/rkuo2000/pybullet-gym-ant)
+* [AirSim End-to-End Learning](https://www.kaggle.com/code/rkuo2000/airsim-end-to-end-learning)
+
+### [RL Robot](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/RL-Robot.html)
+
+### [VLA](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/VLA.html)
