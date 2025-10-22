@@ -127,6 +127,7 @@
 
 ---
 ## 10. [Generative Speech](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
+
 ### Text-to-Speech
 * [forwardtacotron TTS](https://www.kaggle.com/code/rkuo2000/forwardtacotron-tts)
 * [Google TTS](https://www.kaggle.com/code/rkuo2000/google-tts)
@@ -148,7 +149,6 @@
 * [asr-canary-1b](https://www.kaggle.com/code/rkuo2000/asr-canary-1b)
 * [faster-whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
 * [whisper-large-v3](https://www.kaggle.com/code/rkuo2000/whisper-large-v3)
-
 
 ---
 ## 11. [Generative Song](https://rkuo2000.github.io/AI-course/lecture/2025/09/10/Generative-Song.html)
@@ -180,7 +180,8 @@
 ## 13. [Generative Video](https://rkuo2000.github.io/AI-course/lecture/2025/09/12/Generative-Video.html)
 
 ---
-## 14. [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)
+## 14. 大型語言模型 (LLM)
+### [大型語言模型 (Large Language Model)](https://rkuo2000.github.io/AI-course/lecture/2025/09/13/LLM.html)
 * [TinyLlama v1.1](https://www.kaggle.com/code/rkuo2000/tinyllama-v1-1)
 * [Gemma-3 270M-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-270m-it)
 * [Gemma-3 4B-IT](https://www.kaggle.com/code/rkuo2000/gemma-3-4b-it)
@@ -193,7 +194,7 @@
 * [Gemini-2-5-flash Image](https://www.kaggle.com/code/rkuo2000/gemini-2-5-flash-image)
   
 ---
-## 15. [Agent](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
+## 15. [AI代理 (Agent)](https://rkuo2000.github.io/AI-course/lecture/2025/09/15/Agents.html)
 
 ### [LangChain RAG](https://python.langchain.com/docs/tutorials/rag/)
 * [LangChain RAG](https://www.kaggle.com/code/rkuo2000/langchain-rag)
@@ -213,10 +214,10 @@
 * [AG2 Conversable Agent](https://www.kaggle.com/code/rkuo2000/ag2-conversable-agent)
 * [AG2 Group Chat](https://www.kaggle.com/code/rkuo2000/ag2-group-chat)
 * [AG2 Groupchat with RAG](https://www.kaggle.com/code/rkuo2000/ag2-groupchat-with-rag)
-
-* 
+ 
 ---
-## 16. [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/RL.html)
+## 16. 強化學習 (RL)
+### [強化學習(Reinforcement Learning)](https://rkuo2000.github.io/AI-course/lecture/2025/09/16/RL.html)
 * [Cartpole Q-Learning](https://www.kaggle.com/code/rkuo2000/q-learning-cartpole)
 * [Cartpole DQN](https://www.kaggle.com/code/rkuo2000/dqn-cartpole)
 * [Stock DQN](https://www.kaggle.com/code/rkuo2000/stock-dqn)
