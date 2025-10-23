@@ -124,6 +124,7 @@
 * [Inpainting Anything](https://www.kaggle.com/code/rkuo2000/inpaint-anything)<br>
 * [Remove Anything](https://www.kaggle.com/code/rkuo2000/remove-anything)<br>
 * [Replace Anything](https://www.kaggle.com/code/rkuo2000/replace-anything)<br>
+* [LivePortrait](https://www.kaggle.com/code/rkuo2000/liveportrait)
 
 ---
 ## 10. [Generative Speech](https://rkuo2000.github.io/AI-course/lecture/2025/09/09/Generative-Speech.html)
