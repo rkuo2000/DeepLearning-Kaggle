@@ -43,6 +43,7 @@
 * [腸胃道疾病偵測 Resnet50](https://www.kaggle.com/code/rkuo2000/gastrointestinal-renset50)
 * [腸胃道疾病偵測 Resnet152+ViT](https://www.kaggle.com/code/rkuo2000/gastrointestinal-resnet152vit)
 * [腸胃道疾病偵測 EfficientNet-v2s](https://www.kaggle.com/code/rkuo2000/gastrointestinal-tract-efficientnet-v2s)
+* [土地分類](https://www.kaggle.com/code/rkuo2000/eurosat-classification) [EuroSAT CNN](https://www.kaggle.com/code/rkuo2000/eurosat-cnn)
 
 ---
 ## 4. [物件偵測 (Object Detection)](https://rkuo2000.github.io/AI-course/lecture/2025/09/04/Object-Detection.html)
